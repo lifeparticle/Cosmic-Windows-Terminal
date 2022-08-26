@@ -21,6 +21,7 @@ winget install JanDeDobbeleer.OhMyPosh -s winget
 echo $PROFILE
 ```
 You may have to create the folder `PowerShell` and the file `Microsoft.PowerShell_profile.ps1`
+
 13. Open file `Microsoft.PowerShell_profile.ps1` and add the following line. Read more [here](https://ohmyposh.dev/docs/installation/prompt).
 ```
 oh-my-posh init pwsh | Invoke-Expression
