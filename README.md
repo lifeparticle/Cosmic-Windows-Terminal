@@ -70,5 +70,11 @@ echo 'test' > C:\Users\***\Documents\PowerShell\Microsoft.PowerShell_profile.ps1
 oh-my-posh init pwsh | Invoke-Expression
 ```
 
+15. Set Terminal Transparency
+
+```
+ctrl + shift + scroll up/down
+```
+
 # Resources
 1. [How to make the ultimate Terminal Prompt on Windows 11](https://www.youtube.com/watch?v=VT2L1SXFq9U)
