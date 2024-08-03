@@ -1,6 +1,12 @@
 1. Download [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
 
-2. Download [Zoomit](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
+2. poshgit
+
+```shell
+choco install poshgit
+```
+
+3. Download [Zoomit](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
 ```
 zoom mode -> ctrl + 1
 zoom in -> mouse scroll up
