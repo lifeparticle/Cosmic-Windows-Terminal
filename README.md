@@ -82,5 +82,13 @@ oh-my-posh init pwsh | Invoke-Expression
 ctrl + shift + scroll up/down
 ```
 
+16.  Icons
+
+```shell
+Install-Module -Name Terminal-Icons -Repository PSGallery
+code $PROFILE
+Import-Module -Name Terminal-Icons
+```
+
 # Resources
 1. [How to make the ultimate Terminal Prompt on Windows 11](https://www.youtube.com/watch?v=VT2L1SXFq9U)
