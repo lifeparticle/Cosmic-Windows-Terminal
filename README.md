@@ -54,7 +54,7 @@ Downlaod [Ubuntu](https://apps.microsoft.com/store/detail/ubuntu/9PDXGNCFSCZV). 
 11. [Oh My Posh](https://ohmyposh.dev/docs)
 
 ```shell
-winget install JanDeDobbeleer.OhMyPosh -s winget
+choco install oh-my-posh
 ```
 
 12. Set the Caskaydia Cove Nerd Font
